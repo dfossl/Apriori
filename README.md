@@ -9,10 +9,10 @@ The goal was to implement Apriori as efficiently as possible with the constraint
 ### Input Data Format
 The Data is expected to be as follows:
 4
-1	3	1 3 4
-2	3	2 3 5
-3	4	1 2 3 5
-4	2	2 5
+1[tab]3[tab]1 3 4
+2[tab]3[tab]2 3 5
+3[tab]4[tab]1 2 3 5
+4[tab]2[tab]2 5
 
 line 1 holds number of transactions.
 Transactino lines are tab seperated with first column be id, second being number of items and third column being space seperated item list.
